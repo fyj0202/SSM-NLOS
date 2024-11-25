@@ -1,6 +1,6 @@
 # Study on NLOS Imaging via Scalable Scattering Mapping
 
-This repository contains code for the paper _Study on NLOS Imaging via Scalable Scattering Mapping_ by YuJie Fanfg, JunMing Wu, et al. The captured datasets and the results of network training can be downloaded separately from our [project webpage](https://pan.baidu.com/s/1ZMXK9iy4z83yjjqJIAd9pw).
+This repository contains code for the paper _Study on NLOS Imaging via Scalable Scattering Mapping_ by YuJie Fang, JunMing Wu, et al. The captured datasets and the results of network training can be downloaded separately from our [project webpage](https://pan.baidu.com/s/1ZMXK9iy4z83yjjqJIAd9pw).
 
 If required, email fang_yj@bitzh.edu.cn to obtain passwords for all datasets and experimental results.
 
