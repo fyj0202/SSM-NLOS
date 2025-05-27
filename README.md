@@ -13,3 +13,13 @@ This is a schematic of our model.
 <div align="center">
   <img src="https://github.com/fyj0202/NLOS-Data/blob/main/figure1.png">
 </div> <br />
+
+## Citation
+```bibtex
+@article{zheng2023rdm,
+  title={A Reparameterized Discrete Diffusion Model for Text Generation},
+  author={Zheng, Lin and Yuan, Jianbo and Yu, Lei and Kong, Lingpeng},
+  journal={arXiv preprint arXiv:2302.05737},
+  year={2023}
+}
+```
