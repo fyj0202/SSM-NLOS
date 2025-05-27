@@ -16,10 +16,13 @@ This is a schematic of our model.
 
 ## Citation
 ```bibtex
-@article{zheng2023rdm,
-  title={A Reparameterized Discrete Diffusion Model for Text Generation},
-  author={Zheng, Lin and Yuan, Jianbo and Yu, Lei and Kong, Lingpeng},
-  journal={arXiv preprint arXiv:2302.05737},
-  year={2023}
+@article{article,
+author = {Fang, Yujie and Wu, Junming and Zhong, Shengming and Zhang, Xiaofeng and An, Yulei and Wang, Xia and Su, Binghua and Wang, Kejun},
+year = {2025},
+month = {05},
+pages = {},
+title = {Non-Line-of-Sight Imaging via Scalable Scattering Mapping using TOF cameras},
+journal = {Photonics Research},
+doi = {10.1364/PRJ.558736}
 }
 ```
